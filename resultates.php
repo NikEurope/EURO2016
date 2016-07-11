@@ -2,7 +2,6 @@
 
 <!-- MySQL PHP PAYS    -->
 
-
 <?php
 
 // Connexion BD
@@ -54,6 +53,8 @@ if(isset($_POST['pays1']) AND isset($_POST['pays2']) AND isset($_POST['res1']) A
 $allmsg = $bdd->query('SELECT * FROM resultat ORDER BY id DESC LIMIT 0,6');
 while($msg = $allmsg->fetch())   // bucle pour chercher les informations
 {
+
+
 
 // Afficher le chat en HTML
 ?>
