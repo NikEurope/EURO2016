@@ -45,13 +45,6 @@ for ($i3=0; $i3 < count($content->groups[$i]->teams[$i2]->nom) ; $i3++)
 {
 $nom = $content->groups[$i]->teams[$i2]->nom;
 
-// 2 EME NOM
-    // for (($j=$i3+1); $j < count($content->groups[$i]->teams[$i2]->nom) ; $j++)
-    // {
-    //
-    //
-    // }
-
 ?>
 
 <!-- FLAG -->
