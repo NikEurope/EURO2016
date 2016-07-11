@@ -2,10 +2,7 @@
 
 EURO 2016
 
-PHP & JSON
-
-PHP PROCÉDURAL :
-
+PHP PROCÉDURAL & JSON :
 
 
 2-Euro2016drap - Prototype de EURO 2016 avec affichage de JSON
