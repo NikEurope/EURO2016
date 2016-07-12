@@ -1,5 +1,6 @@
 
 
+
 <!-- Exercice PHP Euro2016  PHP JSON -->
 
 <!DOCTYPE html>
@@ -10,6 +11,9 @@
 <body>
 
 <?php
+
+
+
 
 // ------------------------  json
 
