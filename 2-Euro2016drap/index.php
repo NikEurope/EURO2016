@@ -13,8 +13,6 @@
 <?php
 
 
-
-
 // ------------------------  json
 
 $euro = file_get_contents("competition.json");
